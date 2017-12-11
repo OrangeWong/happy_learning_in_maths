@@ -1,6 +1,8 @@
 Summary:
 A visualization of student emotion and performance in learning Mathematics at country level. Students perform better when they feel less anxious in learning Mathematics, and the anxiety level is smaller in wealthy countries. Female students, in general, feel more anxious in learning Mathematics than male students.   
-Link to the visualization: https://public.tableau.com/profile/ka.hung.wong#!/vizhome/PISA_EDA/Story1
+Link to the visualization: 
+initial: https://public.tableau.com/profile/ka.hung.wong#!/vizhome/HappyLearninginMathematics_Initial/gender_difference
+final: https://public.tableau.com/profile/ka.hung.wong#!/vizhome/PISA_EDA/Story1
 
 Design:
 •	Remove all reference lines in sheets to make the sheets clearer. 
